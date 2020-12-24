@@ -5,11 +5,11 @@
 
 ## Technologies employed
 	
-#### Front-End
+### Front-End
 	
-    Html5
-    CSS3
-    GoogleFonts
+    1)Html5
+    2)CSS3
+    3)GoogleFonts
 		
 ### Development State
 
@@ -21,3 +21,9 @@
 ![](https://i.imgur.com/85KBl1t.png)
 
 > Watching the web page with live server.
+
+### <s>Random Waifu</s>
+
+![](https://i.imgur.com/ZsDUNZQ.gif)
+
+> ~(˘▾˘~)
