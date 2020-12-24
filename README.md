@@ -1,15 +1,15 @@
 # Node JS Page
 
 ### Description
-> **A simple example working with web technologies**
+> **A basic example how to make a Web Page**
 
 ## Technologies employed
 	
 #### Front-End
 	
-     Html5
-     CSS3
-     GoogleFonts
+    Html5
+    CSS3
+    GoogleFonts
 		
 ### Development State
 
@@ -18,6 +18,6 @@
 
 ### ScreenShots
 
-![](https://imgur.com/85KBl1t)
+![](https://i.imgur.com/85KBl1t.png)
 
-> Description.
+> Watching the web page with live server.
