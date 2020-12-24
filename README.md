@@ -1,30 +1,30 @@
 # Node JS Page
 
-###Description
+### Description
 > **A simple example working with web technologies**
 
-##Technologies employed
+## Technologies employed
 
-####Back-End
+#### Back-End
 
-	 NodeJS
+     NodeJS
      Express
      Morgan
 	
-####Front-End
+#### Front-End
 	
-	 Html5
+     Html5
      CSS3
      AnimateCSS
-	 GoogleFonts
+     GoogleFonts
 		
-###Development State
+### Development State
 
 > You can check the app in this link, if the app has no link you can watch some screenshots
 `<link>` : <https://github.com>
 
 
-###ScreenShots
+### ScreenShots
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
